@@ -92,7 +92,7 @@ const SearchBar = ({ setMusicData }) => {
 
 
   return (
-    <form className="mt-8 w-[500px] relative" onSubmit={e => { e.preventDefault(); }}>
+    <form className="w-[500px] relative mt-20" onSubmit={e => { e.preventDefault(); }}>
         <div className="relative">
             <input type="search" placeholder="search" 
             className="w-full p-4 rounded-full text-white bg-slate-800"

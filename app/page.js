@@ -1,5 +1,5 @@
 "use client";
-import { SearchBar } from "@/components";
+import { NavBar, SearchBar } from "@/components";
 import Image from "next/image";
 import { useState } from "react";
 import { MusicDisplay } from "@/components";
@@ -12,6 +12,7 @@ export default function Home() {
         musicData.length == 0 ? "h-screen" : null
       }`}
     >
+      <NavBar />
       <SearchBar setMusicData={setMusicData} />
       {musicData.length !== 0 && <MusicDisplay musicData={musicData} />}
     </div>
