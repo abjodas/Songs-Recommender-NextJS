@@ -1,7 +1,8 @@
-This project was designed to help people find song recommendations. All they need to do is enter a song that they like and they can get hundreds of similar songs.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fhow-to-access-spotifys-web-api-using-ruby-restclient-and-json-c04f8f8f23cd&psig=AOvVaw2oyY58I8eqxOfBX6Ma33iG&ust=1711785254096000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNihnJL_mIUDFQAAAAAdAAAAABAE![image](https://github.com/abjodas/Songs-Recommender-NextJS/assets/47302962/37244cfe-c662-44e2-a91b-731672febddb)
-I have used Spotify web api to as my backend in order to get track details, images and recommendations. I have also used Deezer's api to get the previews of songs which were not provided by spotify. Deezer does not allow new users to create apps anymore, so I had to use RapidApi, which meant that I only had limited requests.
+This project was designed to help people find song recommendations. All you need to do is enter a song that you like and you can get hundreds of similar songs.
 
+
+I have used Spotify web api to as my backend in order to get track details, images and recommendations. I have also used Deezer's api to get the previews of songs which were not provided by spotify. Deezer does not allow new users to create apps anymore, so I had to use RapidApi, which meant that I only had limited requests.
+![image](https://github.com/abjodas/Songs-Recommender-NextJS/assets/47302962/fa2ed047-bebe-4746-85a4-07a84e38356e)
 ### Built With
 
 I have built my project with the help of following frameworks.
@@ -10,7 +11,21 @@ I have built my project with the help of following frameworks.
 * [![React][React.js]][React-url]
 
 For Styling, I have used Tailwind CSS
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetlogovector.com%2Ftailwind-css-logo-vector-svg%2F&psig=AOvVaw2pITVAWVB-mnpQqvDeVz7Z&ust=1711785705578000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjV5OmAmYUDFQAAAAAdAAAAABAJ![image](https://github.com/abjodas/Songs-Recommender-NextJS/assets/47302962/09115177-b93f-468d-8e81-568c63841029)
+![image](https://github.com/abjodas/Songs-Recommender-NextJS/assets/47302962/bdd1eb73-db1f-46a4-b37f-9fc0e14043f9)
+Below are some of the screenshots of my project
+
+![image](https://github.com/abjodas/Songs-Recommender-NextJS/assets/47302962/a5a329d8-5bb4-424f-9ecc-6e08b834c279)
+
+![image](https://github.com/abjodas/Songs-Recommender-NextJS/assets/47302962/ddfd74b5-60f4-4e64-b69a-ac45df4f3ac0)
+![image](https://github.com/abjodas/Songs-Recommender-NextJS/assets/47302962/0b760d3c-e8a9-4861-93d9-902fb8fa2ff8)
+![image](https://github.com/abjodas/Songs-Recommender-NextJS/assets/47302962/5c5cad6b-8edd-4391-8c02-cb005155d76e)
+![image](https://github.com/abjodas/Songs-Recommender-NextJS/assets/47302962/4ff9b4ff-7bf7-4317-8573-d8181f3104b0)
+![image](https://github.com/abjodas/Songs-Recommender-NextJS/assets/47302962/75aed02d-b658-409e-a642-0e3bbe9edcf0)
+
+
+
+
+
 
 
 
